@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "fantastic-invention",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://viamur.github.io/Filmoteka-teamwork",
+  "homepage": "https://Maksym-Lizohub.github.io/fantastic-invention",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Filmoteka-teamwork/"
+    "build": "parcel build src/*.html --public-url /fantastic-invention/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Maksym-Lizohub/fantastic-invention.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Maksym Lizohub <maksym.lizohub@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Maksym-Lizohub/fantastic-invention/issues"
   },
   "dependencies": {
     "@glidejs/glide": "^3.5.2",
@@ -37,7 +37,7 @@
     "@parcel/transformer-sass": "^2.6.0",
     "@parcel/transformer-webmanifest": "^2.6.0",
     "buffer": "^6.0.3",
-    "parcel": "^2.6.0",
+    "parcel": "^2.7.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4",
     "process": "^0.11.10"
